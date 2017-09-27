@@ -1,0 +1,35 @@
+/* Extra Flexslider CSS */
+/* line 4, ../../scss/partials/add_flexslider.scss */
+.flexslider {
+  margin-bottom: 10px;
+}
+
+/* line 8, ../../scss/partials/add_flexslider.scss */
+.flex-control-nav {
+  position: relative;
+  bottom: auto;
+}
+
+/* line 13, ../../scss/partials/add_flexslider.scss */
+.custom-navigation {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+  padding-bottom: 1em;
+}
+
+/* line 20, ../../scss/partials/add_flexslider.scss */
+.custom-navigation > * {
+  display: table-cell;
+}
+
+/* line 24, ../../scss/partials/add_flexslider.scss */
+.custom-navigation > a {
+  width: 50px;
+  padding: 6px;
+}
+
+/* line 29, ../../scss/partials/add_flexslider.scss */
+.custom-navigation .flex-next {
+  text-align: right;
+}
